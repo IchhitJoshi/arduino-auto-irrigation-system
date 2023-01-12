@@ -14,7 +14,7 @@ This project looks into developing an automated irrigation system that could be 
 
 ### III. Items Used
 
-The following items were used in building this project: Arduino UNO, 16x2 LCD, Breadboard, Soil moisture sensor, One channel 5V Relay, Ultrasonic sensor, Real time clock chip, Ethernet shield, Water level sensor, Jumper cables, LED, Buzzer, and Resistor.![image](https://user-images.githubusercontent.com/112485986/212203552-1f096617-9e28-43a2-8433-71aba9b62b44.png)
+The following items were used in building this project: Arduino UNO, 16x2 LCD, Breadboard, Soil moisture sensor, One channel 5V Relay, Ultrasonic sensor, Real time clock chip, Ethernet shield, Water level sensor, Jumper cables, LED, Buzzer, and Resistor.
 
 <img width="469" alt="image" src="https://user-images.githubusercontent.com/112485986/212203564-348501f7-5e36-4a2b-8e1b-db5995e02bb7.png">
 
